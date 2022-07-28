@@ -1,0 +1,29 @@
+body {
+    background-image: url("https://img.wallpapersafari.com/desktop/1280/1024/94/67/mHNd6F.jpg")
+  }
+ 
+  .color1{
+    text-align: center;
+    color:black(7,7,7);
+    opacity: 0.5;
+  }
+
+  .color2{
+    text-align: center;
+    color: black(0,0,0);
+  }
+
+  .color3{
+    color: black(0,0,0);
+    text-align: center;
+  }
+
+  .color4{
+    text-align: right;
+    
+  }
+
+  .color5{
+    float: right;
+    padding: 20px;
+  }
